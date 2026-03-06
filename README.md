@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Adarsh Chauhan.
 
-<!--
-**codecaptain139/codecaptain139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer currently learning JavaScript and building projects to improve my problem-solving skills.
 
-Here are some ideas to get you started:
+Technologies I'm working with:
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- Text Analyzer
+- Finance Tracker
+
+I am currently looking for a Frontend Developer Internship.
