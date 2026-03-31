@@ -9,7 +9,9 @@ Technologies I'm working with:
 - Git & GitHub
 
 Projects:
-- Text Analyzer
 - Finance Tracker
+- Kanban Task Board
+- Github Finder
+- Personal Portfolio
 
 I am currently looking for a Frontend Developer Internship.
